@@ -1,0 +1,22 @@
+h1 {
+    color: lime;
+}
+
+p{
+    background-color:orange;
+    color: purple;
+}
+
+p#intro{
+    background-color: yellow;
+}
+
+.dikkevetterand {
+    border: 10px dashed black;
+}
+
+body {
+    background-color: pink;
+    background-image: url(https://media.tenor.com/2LQOdHCrA0YAAAAM/jo-bonten-surival-expert-jo-bonten.gif);
+    background-size: 50px;
+}
